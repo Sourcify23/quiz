@@ -1,0 +1,23 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Madrid"],
+        "correct": "Paris"
+      },
+      {
+        "id": 2,
+        "question": "What is 2 + 2?",
+        "options": ["3", "4", "5", "6"],
+        "correct": "4"
+      },
+      {
+        "id": 3,
+        "question": "Who wrote 'Hamlet'?",
+        "options": ["Charles Dickens", "J.K. Rowling", "William Shakespeare", "Mark Twain"],
+        "correct": "William Shakespeare"
+      }
+    ]
+  }
+  
